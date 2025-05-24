@@ -2,7 +2,7 @@
   "name": "nose-goes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/nose-goes",
+  "homepage": "https://kowirth.github.io/nose-goes",
   "dependencies": {
     "@tensorflow-models/face-landmarks-detection": "^1.0.6",
     "@tensorflow-models/handpose": "^0.1.0",
